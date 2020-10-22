@@ -1,4 +1,4 @@
-# Corona Tracker
+# COVID19 Tracker
 
 # Introduction 
 
