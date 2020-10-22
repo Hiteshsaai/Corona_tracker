@@ -1,6 +1,6 @@
 # COVID19 Tracker
 
-# Introduction 
+# About App
 
 I have created a corona tracker app, using React and React Hooks. The data for the web application was fetched from an API for Backend data. </br>
 It is a real time traker of corona details for all the countries around the world. You can get data about the following, </br>
