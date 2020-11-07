@@ -1,4 +1,4 @@
-# COVID19 Tracker
+# COVID19 Tracker App
 
 # About App
 
