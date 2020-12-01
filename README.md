@@ -1,4 +1,4 @@
-# COVID19 Tracker App
+# React COVID19-Tracker Web Application
 
 # About App
 
