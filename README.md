@@ -10,6 +10,6 @@ It is a real time traker of corona details for all the countries around the worl
 - Total Death.
 - A Data Visualization Graph.
 
-**Website Link**
+## Website Link
 
 [COVID19 Tracker](https://hiteshsaai.github.io/covid19_corona_tracker/)
