@@ -2,7 +2,7 @@
 
 # About App
 
-I have created a corona tracker app, using React and React Hooks. The data for the web application was fetched from an API for Backend data. </br>
+This is an corona tracker application, created using React and React Hooks. The data for the web application was fetched from an backend API. </br>
 It is a real time traker of corona details for all the countries around the world. You can get data about the following, </br>
 
 - Total cases.
